@@ -1,0 +1,4 @@
+﻿  LB7KURGA.cpp
+D:\Visual\Projects\LB7KURGA\LB7KURGA\LB7KURGA.cpp(109,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LB7KURGA.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LB7KURGA.vcxproj -> D:\Visual\Projects\LB7KURGA\x64\Debug\LB7KURGA.exe

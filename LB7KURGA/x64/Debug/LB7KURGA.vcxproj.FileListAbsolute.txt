@@ -1,0 +1,2 @@
+D:\Visual\Projects\LB7KURGA\LB7KURGA\x64\Debug\LB7KURGA.vcxproj.AssemblyReference.cache
+D:\Visual\Projects\LB7KURGA\LB7KURGA\x64\Debug\LB7KURGA.vcxproj.SuggestedBindingRedirects.cache
